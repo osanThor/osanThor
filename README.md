@@ -16,5 +16,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osanThor&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osanThor&layout=compact)](https://github.com/osanThor/github-readme-stats&theme=radical)
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&theme=radical)
