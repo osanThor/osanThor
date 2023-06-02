@@ -32,3 +32,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Sanity-f03e2f?style=flat&logo=Sanity&logoColor=white"/> 
 </div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osanThor&layout=compact)](https://github.com/osanThor/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osanThor&show_icons=true&theme=radical)
