@@ -24,5 +24,11 @@
  <img src="https://img.shields.io/badge/ChakraUI-319795?style=flat&logo=Chakraui&logoColor=white"/> 
   <br/>
   <br/>
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/> 
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Sanity-f03e2f?style=flat&logo=Sanity&logoColor=white"/> 
 </div>
