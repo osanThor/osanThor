@@ -19,6 +19,7 @@
  <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=flat&logo=Redux&logoColor=white"/>  
   <br/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> 
  <img src="https://img.shields.io/badge/postcss-DD3A0A?style=flat&logo=postcss&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=Tailwindcss&logoColor=white"/> 
  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=Mui&logoColor=white"/> 
