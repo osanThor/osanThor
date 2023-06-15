@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Developer&fontSize=50&fontAlign=60&desc=Given&descAlign=77&theme=radical)
 
+<div align="center">
 안녕하세요 이준영(GIVEN)입니다. <br />
   개발자로서 새로운 도전과 성장 기회를 항상 찾고 있습니다.<br/> 
+  </div>
   <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FosanThor%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FosanThor%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
   <br/>
-   ### 🔥SKILL STACKS🔥
+  <h3> 🔥SKILL STACKS🔥</h3>
  <div>
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/> 
@@ -34,6 +38,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Sanity-f03e2f?style=flat&logo=Sanity&logoColor=white"/> 
 </div>
+  <br>
+  </div>
   <div align="center">
   <img height=184.28 src="https://github-readme-stats.vercel.app/api?username=osanThor&count_private=true&rank_icon=github" />
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=osanThor&layout=donut" />
