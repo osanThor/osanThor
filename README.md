@@ -34,5 +34,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Sanity-f03e2f?style=flat&logo=Sanity&logoColor=white"/> 
 </div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osanThor&layout=compact)](https://github.com/osanThor/github-readme-stats)
+  <div align="center">
+  <img height=184.28 src="https://github-readme-stats.vercel.app/api?username=osanThor&count_private=true&rank_icon=github" />
+<img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=osanThor&layout=donut" />
+  </div>
