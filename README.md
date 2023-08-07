@@ -31,8 +31,10 @@
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestJS&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mySQL&logoColor=white"/> 
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> 
