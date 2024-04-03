@@ -18,6 +18,7 @@
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
   <br/>
  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/SWR-000000?style=flat&logo=SWR&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat&logo=Reduxsaga&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=flat&logo=Redux&logoColor=white"/>  
@@ -26,13 +27,16 @@
  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> 
  <img src="https://img.shields.io/badge/postcss-DD3A0A?style=flat&logo=postcss&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=Tailwindcss&logoColor=white"/> 
+   <br/>
  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=Mui&logoColor=white"/> 
  <img src="https://img.shields.io/badge/ChakraUI-319795?style=flat&logo=Chakraui&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Shadcnui-000000?style=flat&logo=Shadcnui&logoColor=white"/> 
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestJS&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestJS&logoColor=white"/>
+    <br/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> 
   <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mySQL&logoColor=white"/> 
   <br/>
