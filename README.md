@@ -22,6 +22,7 @@
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat&logo=Reduxsaga&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=flat&logo=Redux&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>  
   <br/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> 
  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> 
