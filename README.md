@@ -46,6 +46,13 @@
   <img src="https://img.shields.io/badge/Sanity-f03e2f?style=flat&logo=Sanity&logoColor=white"/> 
 </div>
   <br>
+   <h3> ⭐️Socials⭐️</h3>
+  <p align="center">
+  <a href = "https://velog.io/@given" target="_blank" rel="opener"  >
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
+  </a>  
+</p>
+  <br>
   </div>
   <div align="center">
   <img height=184.28 src="https://github-readme-stats.vercel.app/api?username=osanThor&count_private=true&rank_icon=github" />
