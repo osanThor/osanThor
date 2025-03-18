@@ -9,7 +9,7 @@
   </div>
     <br/>
 <div align="center">
-  <img src='https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,github' alt="My Skills" />
+  <img src='https://skillicons.dev/icons?i=javascript,typescript,react,next,vue' alt="My Skills" />
 </div>
   <br>
   <div align="center">
